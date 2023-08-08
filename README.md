@@ -28,14 +28,5 @@ Available commands: status , endpoints, calls
 ```
 node index status
 ```
---------------------------------------
-| status_info  │ status_code │ count |
-|------------------------------------|
-| OK           │ 200         │ 54373 |
-|------------------------------------|
-| Not found    │ 404         │ 46699 |
-|------------------------------------|
-| Server Error │ 500         │ 1284  |
-|------------------------------------|
-| Not changed  │ 304         │ 13390 |
---------------------------------------
+![Screenshot from 2023-08-08 08-20-11](https://github.com/Naman15032001/unomok-assignment-log-digestion/assets/71309281/af6df545-b72b-4f6a-b44a-15473e67036d)
+
